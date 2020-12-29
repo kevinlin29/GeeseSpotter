@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/project3.dir/geesespotter_lib.cpp.o CMakeFiles/project3.dir/geesespotter.cpp.o  -o project3 

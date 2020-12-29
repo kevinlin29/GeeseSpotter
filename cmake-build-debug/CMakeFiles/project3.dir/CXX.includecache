@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kl29/Desktop/ECE150/project3/geesespotter.cpp
+geesespotter_lib.h
+/Users/kl29/Desktop/ECE150/project3/geesespotter_lib.h
+
+/Users/kl29/Desktop/ECE150/project3/geesespotter_lib.h
+iostream
+-
+
